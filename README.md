@@ -9,3 +9,7 @@
 
     - Display data visually for traders
       (Use Perspective to create the chart for the trader’s dashboard)
+      
+## Certificate of Completion
+
+<img src="Certificate.png" width = 1000>
